@@ -1,0 +1,2 @@
+# Vehicle-mechanic-management-system-in-Sylhet
+The main purpose of this project is to provide services to drivers and passengers who encounter mechanical faults on the journey. This system will contain information on some mechanics based on area and vehicle category. Through this system, passengers or drivers of faulty vehicles can find mechanics according to the area and specific vehicle type and contact them. 
